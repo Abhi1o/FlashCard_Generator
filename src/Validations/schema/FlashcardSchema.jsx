@@ -1,4 +1,4 @@
-//Creating validation for form
+//Creating schema for validation of user entries
 import * as Yup from "yup";
 
 const FlashCardSchema = Yup.object().shape({
