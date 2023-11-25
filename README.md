@@ -38,7 +38,9 @@ Some features of this application :
 
 - **Share Flashcards:** Users have the option to share their flashcards by clicking on the share button. This opens a modal containing a unique link to the flashcard, along with a copy button for easy sharing with others.
 
--  Allowing users to access their study materials offline. This feature provides added convenience and flexibility for studying on the go.
+- **Download Option:** Include a feature that allows users to download their flashcards as a PDF file. This downloadable PDF could contain all the flashcard details, including titles, descriptions, and terms.
+
+- **Offline Study with Hard Copies:** Users can print and have physical copies of their flashcards for offline study. This is especially useful for those who prefer tactile learning or want a tangible backup.
 
 
 ## Tech Stack
@@ -81,9 +83,9 @@ Flashcard Generator is build using the following technologies:
 Contributions are welcome! If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Contributors
-- Abhishek Kumar [GitHub](https://github.com/abhi1o) | [LinkedIn](https://linkedin.com/in/abhi--) | [YouTube](https://www.youtube.com/watch?v=1SHSj539rQg)
-- Aman Giri [GitHub](https://github.com/amangiri7) | [LinkedIn](https://www.linkedin.com/in/aman-giri-6b3a3b284/) | [YouTube](https://www.youtube.com/watch?v=Ur-M8QxRqQ8)
-- Damini Gadpal [GitHub](https://github.com/Daminigadpal) | [LinkedIn](https://www.linkedin.com/in/damini-gadpal-01996716b) | [YouTube](https://youtu.be/tzykJmtIHvg)
+- Abhishek Kumar [GitHub](https://github.com/abhi1o) | [LinkedIn](https://linkedin.com/in/abhi--) | [YouTube](https://youtu.be/mZvGnH0JLyU)
+- Aman Giri [GitHub](https://github.com/amangiri7) | [LinkedIn](https://www.linkedin.com/in/aman-giri-6b3a3b284/) | [YouTube](https://www.youtube.com/watch?v=J5P9JjmQYOg)
+- Damini Gadpal [GitHub](https://github.com/Daminigadpal) | [LinkedIn](https://www.linkedin.com/in/damini-gadpal-01996716b) | [YouTube](https://www.youtube.com/watch?v=r4ZAkZP_PLY)
 
 ## License
 This project is Distributed under the ISC License. See [LICENSE](./LICENSE.txt) for more information.
