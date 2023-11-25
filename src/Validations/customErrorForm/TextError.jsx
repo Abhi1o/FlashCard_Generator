@@ -1,5 +1,4 @@
-/*In this file we are creating the texterror to show text error on create flashcard
- when user enters some invalid values  */
+//Creating the texterror to show text error on create flashcard when user enters some invalid values
  import React from "react";
 
  const TextError = (props) => {
